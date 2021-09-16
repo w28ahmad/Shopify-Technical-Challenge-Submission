@@ -26,5 +26,5 @@ GROUP BY [OrderDetails].ProductID
 ORDER BY Quantity DESC
 LIMIT 1
 
--- Result: Boston Crab Meat was the most ordered product from Germany
+-- Result: Boston Crab Meat was the most ordered product from Germany with 160 orders
 
